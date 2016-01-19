@@ -5,4 +5,4 @@
 <p>La sphère doit être placée le plus rapidement possible sur un disque (de taille variable) placé aléatoirement dans l’arène virtuelle. Dès que le joueur a réussi à placer la sphère sur le disque alors le bras robot doit la prendre pour la placer dans un trou d’évacuation. Ce trou sera disposé dans l’arène à une position sur laquelle le disque cible ne pourra pas apparaitre. L’objectif de cette animation est uniquement de proposer un temps de repos au joueur avant la mise en place d’un nouveau disque cible.</p>
 <p>Une phase de jeu consistera à placer N sphères sur N disques cibles de plus en plus petits. Plusieurs niveaux de jeux seront proposés (avec des tailles de disques cibles décroissants) pour lesquelles vous devrez conserver et afficher les temps des records (avec les noms des détenteurs de ces records)</p>
 
-<b>This is the description in detail of this projet: <a href=''>Follow And Drop</a></b>
+<b>This is the description in detail of this projet: <a href='https://github.com/yishuo/Follow-And-Drop/blob/master/Enonce%CC%81%20projet%20BDM.pdf'>Follow And Drop</a></b>
