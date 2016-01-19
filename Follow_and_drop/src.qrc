@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/telecom_carre.png</file>
+        <file>image/texture.png</file>
+        <file>image/text.png</file>
+        <file>image/cible.png</file>
+    </qresource>
+</RCC>
